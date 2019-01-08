@@ -8,6 +8,8 @@ by Eddie Franco
 ## What to do
 - Upon your first visit, press the 'Scrape' button
 - Then wait a few seconds and push 'Refresh'
+- Click on the Title to be taken to the article in a new tab
+- Click on the description to leave a note or view a note if one exists
 
 ## Improvements 
 - First visit to the page pulls in the articles and hot re-loads them.
